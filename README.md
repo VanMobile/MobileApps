@@ -1,3 +1,4 @@
 # MobileApps
 
-instructions coming soon
+instructions...
+https://github.com/reactivize/reactivizer
