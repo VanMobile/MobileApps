@@ -1,4 +1,3 @@
 # MobileApps
 
-instructions...
-https://github.com/VanMobile/vm-kb
+[Read Instructions Here](https://github.com/VanMobile/vm-kb)
