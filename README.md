@@ -1,4 +1,4 @@
 # MobileApps
 
 instructions...
-https://github.com/reactivize/reactivizer
+https://github.com/VanMobile/vm-kb
