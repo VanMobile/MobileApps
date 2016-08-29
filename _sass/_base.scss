@@ -165,7 +165,7 @@ header {
         width: 100%;
 
         .header-content-inner {
-            background-color: rgba(24, 95, 143, 0.4);
+           
             h1 {
                 font-weight: 700;
                 text-transform: uppercase;
@@ -406,3 +406,6 @@ btn-primary {
 }
 
  
+ #home {
+ background-color: rgba(24, 95, 143, 0.4);
+ }
