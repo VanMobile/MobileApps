@@ -386,3 +386,20 @@ body {
 #githubContact, #twitterContact {
     display: none;
 }
+
+
+.overlay {
+    z-index: 1000; 
+    border: medium none; 
+    margin: 0pt; 
+    padding: 0pt; 
+    width: 100%; 
+    height: 100%; 
+    top: 0pt; 
+    left: 0pt; 
+    background-color: #C6E0EF; 
+    opacity: 0.6;
+    position: fixed;
+}
+
+
