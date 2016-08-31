@@ -386,7 +386,7 @@ body {
 }
 
 #portfolio img {
-    width: 650px;
+   // width: 650px;
     height: 400px; /* 350 */
 }
 
@@ -409,4 +409,11 @@ h1 {
  #home2 {
  background-color: rgba(24, 95, 143, 0.4);
  min-height: 1014px;
+ }
+
+
+
+
+ .img-portfolio-gif {
+     margin: auto;
  }
