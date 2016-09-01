@@ -396,8 +396,9 @@ body {
 
 
 
-h1 {
+#home h1 {
   font: 400 70px/1.2 'Sansita one', Georgia, serif;
+  color: rgba(0, 0, 255, 0.8);
 }
  
 
@@ -416,4 +417,11 @@ h1 {
 
  .img-portfolio-gif {
      margin: auto;
+ }
+
+
+
+ #portfolio h4 {
+     color: rgba(0, 0, 255, 0.8);
+     margin-top: 10px;
  }
